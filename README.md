@@ -44,7 +44,7 @@ This project includes only the essential components required to boot and run a m
 
 ## 💾 Download
 
-- **Ubuntu Mini Remaster 24.04 (amd64)** — [Download ISO (MD5)](https://github.com/linuxmative/Ubuntu-Mini-Remaster/releases/download/Beta-1/ubuntu-mini-remaster-24.04.iso) -Beta 1  
+- **Ubuntu Mini Remaster 24.04 (amd64)** — [Download ISO](https://github.com/linuxmative/Ubuntu-Mini-Remaster/releases/download/Beta-1/ubuntu-mini-remaster-24.04.iso) -Beta 1  
 > Login credentials:  
 > Username: `user`  
 > Password: `user`
